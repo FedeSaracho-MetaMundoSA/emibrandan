@@ -1,0 +1,7144 @@
+{
+  "proyecto": {
+    "nombre": "Riveras de Pucheta",
+    "ubicacion": {
+      "ciudad": "Salta",
+      "provincia": "Salta",
+      "pais": "Argentina"
+    },
+    "fecha_georeferencia": "2025-10-27"
+  },
+  "estadisticas": {
+    "total_lotes": 374,
+    "manzanas": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "G",
+      "I",
+      "K",
+      "L"
+    ],
+    "desglose_por_manzana": {
+      "A": 72,
+      "B": 49,
+      "C": 23,
+      "E": 72,
+      "G": 72,
+      "I": 63,
+      "K": 7,
+      "L": 16
+    },
+    "lotes_vendidos": 177,
+    "lotes_disponibles": 197
+  },
+  "lotes": [
+    {
+      "id": "A-1",
+      "manzana": "A",
+      "numero": 1,
+      "nombre": "1",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3780398653801,
+          -24.58959276515951
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-2",
+      "manzana": "A",
+      "numero": 2,
+      "nombre": "2",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3780729325201,
+          -24.5895085415752
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-3",
+      "manzana": "A",
+      "numero": 3,
+      "nombre": "3",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3781091094341,
+          -24.5894242688463
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-4",
+      "manzana": "A",
+      "numero": 4,
+      "nombre": "4",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3781431045512,
+          -24.589340030587
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-5",
+      "manzana": "A",
+      "numero": 5,
+      "nombre": "5",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3781801768733,
+          -24.5892557436961
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-6",
+      "manzana": "A",
+      "numero": 6,
+      "nombre": "6",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3782147906112,
+          -24.5891714956492
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-7",
+      "manzana": "A",
+      "numero": 7,
+      "nombre": "7",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3782501532654,
+          -24.5890872357617
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-8",
+      "manzana": "A",
+      "numero": 8,
+      "nombre": "8",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.378285597285,
+          -24.5890029745822
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-9",
+      "manzana": "A",
+      "numero": 9,
+      "nombre": "9",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3783207156278,
+          -24.5889187185429
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-10",
+      "manzana": "A",
+      "numero": 10,
+      "nombre": "10",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3783672828487,
+          -24.5888342815712
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-11",
+      "manzana": "A",
+      "numero": 11,
+      "nombre": "11",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3784026453231,
+          -24.5887500216594
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-12",
+      "manzana": "A",
+      "numero": 12,
+      "nombre": "12",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3784380077544,
+          -24.5886657617419
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-13",
+      "manzana": "A",
+      "numero": 13,
+      "nombre": "13",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3784733701427,
+          -24.5885815018188
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-14",
+      "manzana": "A",
+      "numero": 14,
+      "nombre": "14",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3785087324879,
+          -24.5884972418902
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-15",
+      "manzana": "A",
+      "numero": 15,
+      "nombre": "15",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3785440947902,
+          -24.5884129819559
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-16",
+      "manzana": "A",
+      "numero": 16,
+      "nombre": "16",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3785794570493,
+          -24.5883287220161
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-17",
+      "manzana": "A",
+      "numero": 17,
+      "nombre": "17",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3786148192655,
+          -24.5882444620707
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-18",
+      "manzana": "A",
+      "numero": 18,
+      "nombre": "18",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3786501814386,
+          -24.5881602021197
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-19",
+      "manzana": "A",
+      "numero": 19,
+      "nombre": "19",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3787598039018,
+          -24.5878989962362
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-20",
+      "manzana": "A",
+      "numero": 20,
+      "nombre": "20",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3787928702024,
+          -24.5878147725466
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-21",
+      "manzana": "A",
+      "numero": 21,
+      "nombre": "21",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3788282321577,
+          -24.5877305125675
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-22",
+      "manzana": "A",
+      "numero": 22,
+      "nombre": "22",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3788635940699,
+          -24.5876462525829
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-23",
+      "manzana": "A",
+      "numero": 23,
+      "nombre": "23",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3788989559391,
+          -24.5875619925927
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-24",
+      "manzana": "A",
+      "numero": 24,
+      "nombre": "24",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3789343177652,
+          -24.5874777325969
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-25",
+      "manzana": "A",
+      "numero": 25,
+      "nombre": "25",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3789696795483,
+          -24.5873934725955
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-26",
+      "manzana": "A",
+      "numero": 26,
+      "nombre": "26",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3790050412884,
+          -24.5873092125885
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-27",
+      "manzana": "A",
+      "numero": 27,
+      "nombre": "27",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3790404029855,
+          -24.587224952576
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-28",
+      "manzana": "A",
+      "numero": 28,
+      "nombre": "28",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3790757646395,
+          -24.5871406925578
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-29",
+      "manzana": "A",
+      "numero": 29,
+      "nombre": "29",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3791111262505,
+          -24.5870564325341
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-30",
+      "manzana": "A",
+      "numero": 30,
+      "nombre": "30",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3791473018894,
+          -24.5869721596365
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-31",
+      "manzana": "A",
+      "numero": 31,
+      "nombre": "31",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3791826634137,
+          -24.5868878996015
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-32",
+      "manzana": "A",
+      "numero": 32,
+      "nombre": "32",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3792180248951,
+          -24.5868036395608
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-33",
+      "manzana": "A",
+      "numero": 33,
+      "nombre": "33",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3792533863334,
+          -24.5867193795146
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-34",
+      "manzana": "A",
+      "numero": 34,
+      "nombre": "34",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3792887477287,
+          -24.58663511946281
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-35",
+      "manzana": "A",
+      "numero": 35,
+      "nombre": "35",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3793241090809,
+          -24.5865508594054
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-36",
+      "manzana": "A",
+      "numero": 36,
+      "nombre": "36",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3793594703901,
+          -24.5864665993425
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-37",
+      "manzana": "A",
+      "numero": 37,
+      "nombre": "37",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3790830273921,
+          -24.5863695957789
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-38",
+      "manzana": "A",
+      "numero": 38,
+      "nombre": "38",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3790476659132,
+          -24.5864538557898
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-39",
+      "manzana": "A",
+      "numero": 39,
+      "nombre": "39",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3790123043912,
+          -24.5865381157952
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-40",
+      "manzana": "A",
+      "numero": 40,
+      "nombre": "40",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3789755751906,
+          -24.5866223974118
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-41",
+      "manzana": "A",
+      "numero": 41,
+      "nombre": "41",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3789402135815,
+          -24.5867066574057
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-42",
+      "manzana": "A",
+      "numero": 42,
+      "nombre": "42",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3789048519295,
+          -24.586790917394
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-43",
+      "manzana": "A",
+      "numero": 43,
+      "nombre": "43",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3788694902344,
+          -24.5868751773768
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-44",
+      "manzana": "A",
+      "numero": 44,
+      "nombre": "44",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3788341284963,
+          -24.5869594373539
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-45",
+      "manzana": "A",
+      "numero": 45,
+      "nombre": "45",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3787987667152,
+          -24.5870436973255
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-46",
+      "manzana": "A",
+      "numero": 46,
+      "nombre": "46",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.378763404891,
+          -24.5871279572915
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-47",
+      "manzana": "A",
+      "numero": 47,
+      "nombre": "47",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3787280430238,
+          -24.5872122172519
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-48",
+      "manzana": "A",
+      "numero": 48,
+      "nombre": "48",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3786926811136,
+          -24.5872964772068
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-49",
+      "manzana": "A",
+      "numero": 49,
+      "nombre": "49",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3786573191604,
+          -24.587380737156
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-50",
+      "manzana": "A",
+      "numero": 50,
+      "nombre": "50",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3786236667204,
+          -24.5874649700817
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-51",
+      "manzana": "A",
+      "numero": 51,
+      "nombre": "51",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3785883046823,
+          -24.5875492300201
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-52",
+      "manzana": "A",
+      "numero": 52,
+      "nombre": "52",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3785529426011,
+          -24.5876334899529
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-53",
+      "manzana": "A",
+      "numero": 53,
+      "nombre": "53",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3785175804769,
+          -24.5877177498802
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-54",
+      "manzana": "A",
+      "numero": 54,
+      "nombre": "54",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3784822183097,
+          -24.5878020098018
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-55",
+      "manzana": "A",
+      "numero": 55,
+      "nombre": "55",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3783725953178,
+          -24.5880632155233
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-56",
+      "manzana": "A",
+      "numero": 56,
+      "nombre": "56",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3783372329741,
+          -24.5881474754221
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-57",
+      "manzana": "A",
+      "numero": 57,
+      "nombre": "57",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3783018705874,
+          -24.5882317353152
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-58",
+      "manzana": "A",
+      "numero": 58,
+      "nombre": "58",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3782665081577,
+          -24.58831599520281
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-59",
+      "manzana": "A",
+      "numero": 59,
+      "nombre": "59",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3782311456849,
+          -24.5884002550847
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-60",
+      "manzana": "A",
+      "numero": 60,
+      "nombre": "60",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3781950342143,
+          -24.5884845267959
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-61",
+      "manzana": "A",
+      "numero": 61,
+      "nombre": "61",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3781596716549,
+          -24.5885687866665
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-62",
+      "manzana": "A",
+      "numero": 62,
+      "nombre": "62",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3781243090525,
+          -24.5886530465316
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-63",
+      "manzana": "A",
+      "numero": 63,
+      "nombre": "63",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3780889464071,
+          -24.5887373063911
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-64",
+      "manzana": "A",
+      "numero": 64,
+      "nombre": "64",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3780535837186,
+          -24.588821566245
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-65",
+      "manzana": "A",
+      "numero": 65,
+      "nombre": "65",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3780182209871,
+          -24.5889058260933
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-66",
+      "manzana": "A",
+      "numero": 66,
+      "nombre": "66",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3779828582125,
+          -24.588990085936
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-67",
+      "manzana": "A",
+      "numero": 67,
+      "nombre": "67",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3779474953949,
+          -24.5890743457732
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-68",
+      "manzana": "A",
+      "numero": 68,
+      "nombre": "68",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3779121325343,
+          -24.58915860560469
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-69",
+      "manzana": "A",
+      "numero": 69,
+      "nombre": "69",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3778767696306,
+          -24.5892428654307
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-70",
+      "manzana": "A",
+      "numero": 70,
+      "nombre": "70",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3778414066839,
+          -24.5893271252511
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "A-71",
+      "manzana": "A",
+      "numero": 71,
+      "nombre": "71",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3778060436942,
+          -24.5894113850659
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "A-72",
+      "manzana": "A",
+      "numero": 72,
+      "nombre": "72",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3777706806614,
+          -24.5894956448751
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "B-73",
+      "manzana": "B",
+      "numero": 73,
+      "nombre": "73",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3774020822026,
+          -24.589366303372
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "B-74",
+      "manzana": "B",
+      "numero": 74,
+      "nombre": "74",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3774374454617,
+          -24.5892820436322
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "B-75",
+      "manzana": "B",
+      "numero": 75,
+      "nombre": "75",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3774728086779,
+          -24.5891977838868
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "B-76",
+      "manzana": "B",
+      "numero": 76,
+      "nombre": "76",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3775081718509,
+          -24.5891135241358
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "B-77",
+      "manzana": "B",
+      "numero": 77,
+      "nombre": "77",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3775435349809,
+          -24.5890292643793
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "B-78",
+      "manzana": "B",
+      "numero": 78,
+      "nombre": "78",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3775788980679,
+          -24.5889450046171
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "B-79",
+      "manzana": "B",
+      "numero": 79,
+      "nombre": "79",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3776142611119,
+          -24.5888607448494
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-80",
+      "manzana": "B",
+      "numero": 80,
+      "nombre": "80",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3776497055211,
+          -24.58877648379
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-81",
+      "manzana": "B",
+      "numero": 81,
+      "nombre": "81",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3776850684789,
+          -24.5886922240111
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-82",
+      "manzana": "B",
+      "numero": 82,
+      "nombre": "82",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3777204313937,
+          -24.5886079642265
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-83",
+      "manzana": "B",
+      "numero": 83,
+      "nombre": "83",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3777557942655,
+          -24.5885237044364
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-84",
+      "manzana": "B",
+      "numero": 84,
+      "nombre": "84",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3777911570942,
+          -24.5884394446408
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-85",
+      "manzana": "B",
+      "numero": 85,
+      "nombre": "85",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3778265198798,
+          -24.5883551848395
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-86",
+      "manzana": "B",
+      "numero": 86,
+      "nombre": "86",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3778618826225,
+          -24.5882709250326
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-87",
+      "manzana": "B",
+      "numero": 87,
+      "nombre": "87",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.377897245322,
+          -24.5881866652202
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-88",
+      "manzana": "B",
+      "numero": 88,
+      "nombre": "88",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3779326079786,
+          -24.5881024054022
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-89",
+      "manzana": "B",
+      "numero": 89,
+      "nombre": "89",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3779679705921,
+          -24.5880181455785
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-90",
+      "manzana": "B",
+      "numero": 90,
+      "nombre": "90",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3780030889393,
+          -24.5879338896081
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-91",
+      "manzana": "B",
+      "numero": 91,
+      "nombre": "91",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3781127126348,
+          -24.5876726841022
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "B-92",
+      "manzana": "B",
+      "numero": 92,
+      "nombre": "92",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.378148075029,
+          -24.5875884242501
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "B-93",
+      "manzana": "B",
+      "numero": 93,
+      "nombre": "93",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3781834373802,
+          -24.5875041643925
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "B-94",
+      "manzana": "B",
+      "numero": 94,
+      "nombre": "94",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3782187996883,
+          -24.5874199045293
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "B-95",
+      "manzana": "B",
+      "numero": 95,
+      "nombre": "95",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3782541619534,
+          -24.5873356446604
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "B-96",
+      "manzana": "B",
+      "numero": 96,
+      "nombre": "96",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3782895241755,
+          -24.587251384786
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "B-97",
+      "manzana": "B",
+      "numero": 97,
+      "nombre": "97",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3783248863546,
+          -24.587167124906
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-98",
+      "manzana": "B",
+      "numero": 98,
+      "nombre": "98",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3783602484906,
+          -24.5870828650205
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-99",
+      "manzana": "B",
+      "numero": 99,
+      "nombre": "99",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3783956105836,
+          -24.5869986051293
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-100",
+      "manzana": "B",
+      "numero": 100,
+      "nombre": "100",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3784420044584,
+          -24.5869141709016
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-101",
+      "manzana": "B",
+      "numero": 101,
+      "nombre": "101",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3784773664577,
+          -24.5868299109972
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-102",
+      "manzana": "B",
+      "numero": 102,
+      "nombre": "102",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3785127284139,
+          -24.5867456510872
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-103",
+      "manzana": "B",
+      "numero": 103,
+      "nombre": "103",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3785480903271,
+          -24.5866613911717
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-104",
+      "manzana": "B",
+      "numero": 104,
+      "nombre": "104",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3785834521973,
+          -24.5865771312506
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-105",
+      "manzana": "B",
+      "numero": 105,
+      "nombre": "105",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3786188140244,
+          -24.5864928713239
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-106",
+      "manzana": "B",
+      "numero": 106,
+      "nombre": "106",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3786541758085,
+          -24.5864086113916
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-107",
+      "manzana": "B",
+      "numero": 107,
+      "nombre": "107",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3786895375496,
+          -24.5863243514537
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-108",
+      "manzana": "B",
+      "numero": 108,
+      "nombre": "108",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3787248992476,
+          -24.5862400915102
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-109",
+      "manzana": "B",
+      "numero": 109,
+      "nombre": "109",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3784484571473,
+          -24.5861430867027
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-110",
+      "manzana": "B",
+      "numero": 110,
+      "nombre": "110",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3784130952795,
+          -24.5862273465941
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-111",
+      "manzana": "B",
+      "numero": 111,
+      "nombre": "111",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3783777333687,
+          -24.5863116064799
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-112",
+      "manzana": "B",
+      "numero": 112,
+      "nombre": "112",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3783423714148,
+          -24.5863958663601
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-113",
+      "manzana": "B",
+      "numero": 113,
+      "nombre": "113",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3783070094179,
+          -24.5864801262348
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-114",
+      "manzana": "B",
+      "numero": 114,
+      "nombre": "114",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.378271647378,
+          -24.5865643861039
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-115",
+      "manzana": "B",
+      "numero": 115,
+      "nombre": "115",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3782362852951,
+          -24.5866486459674
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-116",
+      "manzana": "B",
+      "numero": 116,
+      "nombre": "116",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3782009231691,
+          -24.5867329058253
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-117",
+      "manzana": "B",
+      "numero": 117,
+      "nombre": "117",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3781655610001,
+          -24.5868171656776
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-118",
+      "manzana": "B",
+      "numero": 118,
+      "nombre": "118",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3781301987881,
+          -24.5869014255244
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-119",
+      "manzana": "B",
+      "numero": 119,
+      "nombre": "119",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.378094836533,
+          -24.5869856853655
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-120",
+      "manzana": "B",
+      "numero": 120,
+      "nombre": "120",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3780594742349,
+          -24.5870699452011
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "B-121",
+      "manzana": "B",
+      "numero": 121,
+      "nombre": "121",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3780241118938,
+          -24.587154205031
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-122",
+      "manzana": "C",
+      "numero": 122,
+      "nombre": "122",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3779887495096,
+          -24.5872384648554
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-123",
+      "manzana": "C",
+      "numero": 123,
+      "nombre": "123",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3779533870824,
+          -24.5873227246742
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "C-124",
+      "manzana": "C",
+      "numero": 124,
+      "nombre": "124",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3779180246121,
+          -24.5874069844875
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "C-125",
+      "manzana": "C",
+      "numero": 125,
+      "nombre": "125",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3778826620989,
+          -24.5874912442951
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "C-126",
+      "manzana": "C",
+      "numero": 126,
+      "nombre": "126",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3778472995426,
+          -24.5875755040971
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "C-127",
+      "manzana": "C",
+      "numero": 127,
+      "nombre": "127",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3777376753445,
+          -24.587836709448
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "C-128",
+      "manzana": "C",
+      "numero": 128,
+      "nombre": "128",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3777023126118,
+          -24.5879209692271
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "C-129",
+      "manzana": "C",
+      "numero": 129,
+      "nombre": "129",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.377666949836,
+          -24.5880052290007
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-130",
+      "manzana": "C",
+      "numero": 130,
+      "nombre": "130",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3776315870172,
+          -24.5880894887686
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-131",
+      "manzana": "C",
+      "numero": 131,
+      "nombre": "131",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3775962241553,
+          -24.588173748531
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-132",
+      "manzana": "C",
+      "numero": 132,
+      "nombre": "132",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3775608612505,
+          -24.5882580082878
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-133",
+      "manzana": "C",
+      "numero": 133,
+      "nombre": "133",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3775254983025,
+          -24.588342268039
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "C-134",
+      "manzana": "C",
+      "numero": 134,
+      "nombre": "134",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3774901353116,
+          -24.58842652778459
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-135",
+      "manzana": "C",
+      "numero": 135,
+      "nombre": "135",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3774547722776,
+          -24.5885107875246
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-136",
+      "manzana": "C",
+      "numero": 136,
+      "nombre": "136",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3774194092005,
+          -24.5885950472591
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-137",
+      "manzana": "C",
+      "numero": 137,
+      "nombre": "137",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3773840460804,
+          -24.5886793069879
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-138",
+      "manzana": "C",
+      "numero": 138,
+      "nombre": "138",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3773486829173,
+          -24.5887635667112
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-139",
+      "manzana": "C",
+      "numero": 139,
+      "nombre": "139",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3773133197111,
+          -24.5888478264289
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-140",
+      "manzana": "C",
+      "numero": 140,
+      "nombre": "140",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.377277956462,
+          -24.588932086141
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-141",
+      "manzana": "C",
+      "numero": 141,
+      "nombre": "141",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3772425931697,
+          -24.5890163458475
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "C-142",
+      "manzana": "C",
+      "numero": 142,
+      "nombre": "142",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3772072298344,
+          -24.5891006055484
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-143",
+      "manzana": "C",
+      "numero": 143,
+      "nombre": "143",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3771718664561,
+          -24.5891848652437
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "C-144",
+      "manzana": "C",
+      "numero": 144,
+      "nombre": "144",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3771365030348,
+          -24.5892691249334
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-145",
+      "manzana": "E",
+      "numero": 145,
+      "nombre": "145",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3767679057729,
+          -24.5891397817725
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-146",
+      "manzana": "E",
+      "numero": 146,
+      "nombre": "146",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3768032694206,
+          -24.5890555221522
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-147",
+      "manzana": "E",
+      "numero": 147,
+      "nombre": "147",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3768386330252,
+          -24.5889712625263
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-148",
+      "manzana": "E",
+      "numero": 148,
+      "nombre": "148",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3768739965869,
+          -24.5888870028948
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-149",
+      "manzana": "E",
+      "numero": 149,
+      "nombre": "149",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3769093601055,
+          -24.58880274325769
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-150",
+      "manzana": "E",
+      "numero": 150,
+      "nombre": "150",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.376944723581,
+          -24.5887184836151
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-151",
+      "manzana": "E",
+      "numero": 151,
+      "nombre": "151",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3769800870135,
+          -24.5886342239668
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-152",
+      "manzana": "E",
+      "numero": 152,
+      "nombre": "152",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.377015450403,
+          -24.5885499643129
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-153",
+      "manzana": "E",
+      "numero": 153,
+      "nombre": "153",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3770508137494,
+          -24.5884657046535
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-154",
+      "manzana": "E",
+      "numero": 154,
+      "nombre": "154",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3770861770528,
+          -24.5883814449885
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-155",
+      "manzana": "E",
+      "numero": 155,
+      "nombre": "155",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3771215403131,
+          -24.5882971853178
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-156",
+      "manzana": "E",
+      "numero": 156,
+      "nombre": "156",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3771569035304,
+          -24.5882129256416
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-157",
+      "manzana": "E",
+      "numero": 157,
+      "nombre": "157",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3771922667047,
+          -24.5881286659598
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-158",
+      "manzana": "E",
+      "numero": 158,
+      "nombre": "158",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.377227629836,
+          -24.5880444062725
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-159",
+      "manzana": "E",
+      "numero": 159,
+      "nombre": "159",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3772629929242,
+          -24.5879601465795
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-160",
+      "manzana": "E",
+      "numero": 160,
+      "nombre": "160",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3772983559693,
+          -24.5878758868809
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-161",
+      "manzana": "E",
+      "numero": 161,
+      "nombre": "161",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3773337189714,
+          -24.5877916271768
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-162",
+      "manzana": "E",
+      "numero": 162,
+      "nombre": "162",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3773690819305,
+          -24.5877073674671
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-163",
+      "manzana": "E",
+      "numero": 163,
+      "nombre": "163",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3774787068302,
+          -24.5874461623314
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-164",
+      "manzana": "E",
+      "numero": 164,
+      "nombre": "164",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3775140696128,
+          -24.5873619025987
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-165",
+      "manzana": "E",
+      "numero": 165,
+      "nombre": "165",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3775494323525,
+          -24.5872776428605
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-166",
+      "manzana": "E",
+      "numero": 166,
+      "nombre": "166",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.377584795049,
+          -24.5871933831167
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-167",
+      "manzana": "E",
+      "numero": 167,
+      "nombre": "167",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3776201577026,
+          -24.5871091233673
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-168",
+      "manzana": "E",
+      "numero": 168,
+      "nombre": "168",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3776555203131,
+          -24.5870248636123
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-169",
+      "manzana": "E",
+      "numero": 169,
+      "nombre": "169",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3776908828805,
+          -24.5869406038517
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-170",
+      "manzana": "E",
+      "numero": 170,
+      "nombre": "170",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.377726245405,
+          -24.5868563440856
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-171",
+      "manzana": "E",
+      "numero": 171,
+      "nombre": "171",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3777616078864,
+          -24.5867720843138
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-172",
+      "manzana": "E",
+      "numero": 172,
+      "nombre": "172",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3777969703248,
+          -24.5866878245365
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-173",
+      "manzana": "E",
+      "numero": 173,
+      "nombre": "173",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3778323327201,
+          -24.5866035647535
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-174",
+      "manzana": "E",
+      "numero": 174,
+      "nombre": "174",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3778676950724,
+          -24.586519304965
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-175",
+      "manzana": "E",
+      "numero": 175,
+      "nombre": "175",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3779030573817,
+          -24.5864350451709
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-176",
+      "manzana": "E",
+      "numero": 176,
+      "nombre": "176",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3779384196479,
+          -24.5863507853713
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-177",
+      "manzana": "E",
+      "numero": 177,
+      "nombre": "177",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3779737818711,
+          -24.586266525566
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-178",
+      "manzana": "E",
+      "numero": 178,
+      "nombre": "178",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3780091440513,
+          -24.5861822657551
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-179",
+      "manzana": "E",
+      "numero": 179,
+      "nombre": "179",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3780445061884,
+          -24.5860980059387
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-180",
+      "manzana": "E",
+      "numero": 180,
+      "nombre": "180",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3780798682826,
+          -24.58601374611669
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-181",
+      "manzana": "E",
+      "numero": 181,
+      "nombre": "181",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3778034270859,
+          -24.5859167400453
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-182",
+      "manzana": "E",
+      "numero": 182,
+      "nombre": "182",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.377768064822,
+          -24.5860009998153
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-183",
+      "manzana": "E",
+      "numero": 183,
+      "nombre": "183",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3777327025151,
+          -24.5860852595796
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-184",
+      "manzana": "E",
+      "numero": 184,
+      "nombre": "184",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3776973401652,
+          -24.58616951933841
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-185",
+      "manzana": "E",
+      "numero": 185,
+      "nombre": "185",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3776619777722,
+          -24.5862537790917
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-186",
+      "manzana": "E",
+      "numero": 186,
+      "nombre": "186",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3776266153362,
+          -24.5863380388393
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-187",
+      "manzana": "E",
+      "numero": 187,
+      "nombre": "187",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3775912528572,
+          -24.5864222985814
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-188",
+      "manzana": "E",
+      "numero": 188,
+      "nombre": "188",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3775558903352,
+          -24.5865065583178
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-189",
+      "manzana": "E",
+      "numero": 189,
+      "nombre": "189",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3775205277701,
+          -24.58659081804869
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-190",
+      "manzana": "E",
+      "numero": 190,
+      "nombre": "190",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.377485165162,
+          -24.586675077774
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-191",
+      "manzana": "E",
+      "numero": 191,
+      "nombre": "191",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3774498025108,
+          -24.5867593374937
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-192",
+      "manzana": "E",
+      "numero": 192,
+      "nombre": "192",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3774144398166,
+          -24.5868435972078
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-193",
+      "manzana": "E",
+      "numero": 193,
+      "nombre": "193",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3773790770794,
+          -24.5869278569163
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-194",
+      "manzana": "E",
+      "numero": 194,
+      "nombre": "194",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3773437142992,
+          -24.5870121166193
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-195",
+      "manzana": "E",
+      "numero": 195,
+      "nombre": "195",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3773083514759,
+          -24.5870963763166
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-196",
+      "manzana": "E",
+      "numero": 196,
+      "nombre": "196",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3772729886095,
+          -24.5871806360084
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-197",
+      "manzana": "E",
+      "numero": 197,
+      "nombre": "197",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3772376257002,
+          -24.5872648956945
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-198",
+      "manzana": "E",
+      "numero": 198,
+      "nombre": "198",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3772022627478,
+          -24.5873491553751
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-199",
+      "manzana": "E",
+      "numero": 199,
+      "nombre": "199",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3770926373219,
+          -24.5876103603495
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-200",
+      "manzana": "E",
+      "numero": 200,
+      "nombre": "200",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3770549784963,
+          -24.58769465626481
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-201",
+      "manzana": "E",
+      "numero": 201,
+      "nombre": "201",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3770196153228,
+          -24.5877789159164
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-202",
+      "manzana": "E",
+      "numero": 202,
+      "nombre": "202",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3769842521063,
+          -24.5878631755625
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-203",
+      "manzana": "E",
+      "numero": 203,
+      "nombre": "203",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3769488888468,
+          -24.587947435203
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "E-204",
+      "manzana": "E",
+      "numero": 204,
+      "nombre": "204",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3769135255442,
+          -24.5880316948379
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-205",
+      "manzana": "E",
+      "numero": 205,
+      "nombre": "205",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3768781621986,
+          -24.5881159544672
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-206",
+      "manzana": "E",
+      "numero": 206,
+      "nombre": "206",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3768427988099,
+          -24.5882002140909
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-207",
+      "manzana": "E",
+      "numero": 207,
+      "nombre": "207",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3768074353782,
+          -24.5882844737091
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-208",
+      "manzana": "E",
+      "numero": 208,
+      "nombre": "208",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3767720719035,
+          -24.5883687333216
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-209",
+      "manzana": "E",
+      "numero": 209,
+      "nombre": "209",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3767367083857,
+          -24.5884529929286
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-210",
+      "manzana": "E",
+      "numero": 210,
+      "nombre": "210",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3767013448249,
+          -24.5885372525299
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-211",
+      "manzana": "E",
+      "numero": 211,
+      "nombre": "211",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.376665981221,
+          -24.5886215121257
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-212",
+      "manzana": "E",
+      "numero": 212,
+      "nombre": "212",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3766306175741,
+          -24.5887057717159
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-213",
+      "manzana": "E",
+      "numero": 213,
+      "nombre": "213",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3765952538842,
+          -24.5887900313005
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-214",
+      "manzana": "E",
+      "numero": 214,
+      "nombre": "214",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3765598901512,
+          -24.5888742908795
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-215",
+      "manzana": "E",
+      "numero": 215,
+      "nombre": "215",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3765245263752,
+          -24.5889585504529
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "E-216",
+      "manzana": "E",
+      "numero": 216,
+      "nombre": "216",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3764891625561,
+          -24.5890428100208
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-217",
+      "manzana": "G",
+      "numero": 217,
+      "nombre": "217",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3761205665011,
+          -24.5889134651689
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-218",
+      "manzana": "G",
+      "numero": 218,
+      "nombre": "218",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3761559305465,
+          -24.5888292056705
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-219",
+      "manzana": "G",
+      "numero": 219,
+      "nombre": "219",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3761912945489,
+          -24.5887449461665
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-220",
+      "manzana": "G",
+      "numero": 220,
+      "nombre": "220",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3762266585082,
+          -24.5886606866569
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-221",
+      "manzana": "G",
+      "numero": 221,
+      "nombre": "221",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3762620224245,
+          -24.5885764271417
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-222",
+      "manzana": "G",
+      "numero": 222,
+      "nombre": "222",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3762973862977,
+          -24.5884921676209
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-223",
+      "manzana": "G",
+      "numero": 223,
+      "nombre": "223",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3763327501279,
+          -24.5884079080946
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-224",
+      "manzana": "G",
+      "numero": 224,
+      "nombre": "224",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3763681139151,
+          -24.5883236485626
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-225",
+      "manzana": "G",
+      "numero": 225,
+      "nombre": "225",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3764034776592,
+          -24.5882393890251
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-226",
+      "manzana": "G",
+      "numero": 226,
+      "nombre": "226",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3764388413603,
+          -24.5881551294819
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-227",
+      "manzana": "G",
+      "numero": 227,
+      "nombre": "227",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3764742050183,
+          -24.5880708699332
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-228",
+      "manzana": "G",
+      "numero": 228,
+      "nombre": "228",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3765095686333,
+          -24.5879866103789
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-229",
+      "manzana": "G",
+      "numero": 229,
+      "nombre": "229",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3765449322053,
+          -24.587902350819
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-230",
+      "manzana": "G",
+      "numero": 230,
+      "nombre": "230",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3765802957342,
+          -24.5878180912535
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-231",
+      "manzana": "G",
+      "numero": 231,
+      "nombre": "231",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3766156592201,
+          -24.5877338316824
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-232",
+      "manzana": "G",
+      "numero": 232,
+      "nombre": "232",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3766510226629,
+          -24.5876495721058
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-233",
+      "manzana": "G",
+      "numero": 233,
+      "nombre": "233",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3766863860627,
+          -24.58756531252349
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-234",
+      "manzana": "G",
+      "numero": 234,
+      "nombre": "234",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3767217494195,
+          -24.5874810529357
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-235",
+      "manzana": "G",
+      "numero": 235,
+      "nombre": "235",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.376831375552,
+          -24.5872198481778
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-236",
+      "manzana": "G",
+      "numero": 236,
+      "nombre": "236",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3768667387323,
+          -24.5871355885671
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-237",
+      "manzana": "G",
+      "numero": 237,
+      "nombre": "237",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3769021018696,
+          -24.5870513289507
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-238",
+      "manzana": "G",
+      "numero": 238,
+      "nombre": "238",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3769374649638,
+          -24.5869670693288
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-239",
+      "manzana": "G",
+      "numero": 239,
+      "nombre": "239",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.376972828015,
+          -24.5868828097013
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-240",
+      "manzana": "G",
+      "numero": 240,
+      "nombre": "240",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3770081910232,
+          -24.5867985500682
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-241",
+      "manzana": "G",
+      "numero": 241,
+      "nombre": "241",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3770435539883,
+          -24.5867142904295
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-242",
+      "manzana": "G",
+      "numero": 242,
+      "nombre": "242",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3770789169105,
+          -24.5866300307852
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-243",
+      "manzana": "G",
+      "numero": 243,
+      "nombre": "243",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3771142797895,
+          -24.5865457711353
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-244",
+      "manzana": "G",
+      "numero": 244,
+      "nombre": "244",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3771496426256,
+          -24.5864615114798
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-245",
+      "manzana": "G",
+      "numero": 245,
+      "nombre": "245",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3771850054186,
+          -24.5863772518188
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-246",
+      "manzana": "G",
+      "numero": 246,
+      "nombre": "246",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3772203681685,
+          -24.5862929921522
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-247",
+      "manzana": "G",
+      "numero": 247,
+      "nombre": "247",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3772557308755,
+          -24.5862087324799
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-248",
+      "manzana": "G",
+      "numero": 248,
+      "nombre": "248",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3772910935394,
+          -24.5861244728021
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-249",
+      "manzana": "G",
+      "numero": 249,
+      "nombre": "249",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3773264561602,
+          -24.5860402131187
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-250",
+      "manzana": "G",
+      "numero": 250,
+      "nombre": "250",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3773618187381,
+          -24.5859559534297
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-251",
+      "manzana": "G",
+      "numero": 251,
+      "nombre": "251",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3773971812729,
+          -24.5858716937352
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-252",
+      "manzana": "G",
+      "numero": 252,
+      "nombre": "252",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3774325437647,
+          -24.585787434035
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-253",
+      "manzana": "G",
+      "numero": 253,
+      "nombre": "253",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3771561034729,
+          -24.5856904266955
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-254",
+      "manzana": "G",
+      "numero": 254,
+      "nombre": "254",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3771207408114,
+          -24.5857746863436
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-255",
+      "manzana": "G",
+      "numero": 255,
+      "nombre": "255",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3770853781069,
+          -24.5858589459861
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-256",
+      "manzana": "G",
+      "numero": 256,
+      "nombre": "256",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3770500153593,
+          -24.5859432056231
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-257",
+      "manzana": "G",
+      "numero": 257,
+      "nombre": "257",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3770146525687,
+          -24.5860274652544
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-258",
+      "manzana": "G",
+      "numero": 258,
+      "nombre": "258",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.376979289735,
+          -24.5861117248802
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-259",
+      "manzana": "G",
+      "numero": 259,
+      "nombre": "259",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3769439268584,
+          -24.5861959845003
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-260",
+      "manzana": "G",
+      "numero": 260,
+      "nombre": "260",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3769085639386,
+          -24.5862802441149
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-261",
+      "manzana": "G",
+      "numero": 261,
+      "nombre": "261",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3768732009759,
+          -24.5863645037239
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-262",
+      "manzana": "G",
+      "numero": 262,
+      "nombre": "262",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3768378379701,
+          -24.5864487633273
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-263",
+      "manzana": "G",
+      "numero": 263,
+      "nombre": "263",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3768024749213,
+          -24.5865330229252
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-264",
+      "manzana": "G",
+      "numero": 264,
+      "nombre": "264",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3767671118295,
+          -24.5866172825174
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-265",
+      "manzana": "G",
+      "numero": 265,
+      "nombre": "265",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3767317486946,
+          -24.586701542104
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-266",
+      "manzana": "G",
+      "numero": 266,
+      "nombre": "266",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3766963855167,
+          -24.5867858016851
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-267",
+      "manzana": "G",
+      "numero": 267,
+      "nombre": "267",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3766610222957,
+          -24.5868700612606
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-268",
+      "manzana": "G",
+      "numero": 268,
+      "nombre": "268",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3766256590317,
+          -24.5869543208304
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-269",
+      "manzana": "G",
+      "numero": 269,
+      "nombre": "269",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3765902957247,
+          -24.5870385803947
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-270",
+      "manzana": "G",
+      "numero": 270,
+      "nombre": "270",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3765549323746,
+          -24.5871228399534
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-271",
+      "manzana": "G",
+      "numero": 271,
+      "nombre": "271",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3764453057159,
+          -24.5873840445499
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-272",
+      "manzana": "G",
+      "numero": 272,
+      "nombre": "272",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3764099421894,
+          -24.5874683040857
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-273",
+      "manzana": "G",
+      "numero": 273,
+      "nombre": "273",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3763745786199,
+          -24.5875525636159
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-274",
+      "manzana": "G",
+      "numero": 274,
+      "nombre": "274",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3763392150073,
+          -24.5876368231405
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-275",
+      "manzana": "G",
+      "numero": 275,
+      "nombre": "275",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3763038513517,
+          -24.5877210826595
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-276",
+      "manzana": "G",
+      "numero": 276,
+      "nombre": "276",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.376268487653,
+          -24.5878053421729
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-277",
+      "manzana": "G",
+      "numero": 277,
+      "nombre": "277",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3762331239113,
+          -24.5878896016808
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-278",
+      "manzana": "G",
+      "numero": 278,
+      "nombre": "278",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3761977601265,
+          -24.587973861183
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-279",
+      "manzana": "G",
+      "numero": 279,
+      "nombre": "279",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3761623962988,
+          -24.5880581206797
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-280",
+      "manzana": "G",
+      "numero": 280,
+      "nombre": "280",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3761270324279,
+          -24.5881423801707
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-281",
+      "manzana": "G",
+      "numero": 281,
+      "nombre": "281",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3760916685141,
+          -24.5882266396562
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-282",
+      "manzana": "G",
+      "numero": 282,
+      "nombre": "282",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3760563045572,
+          -24.5883108991361
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-283",
+      "manzana": "G",
+      "numero": 283,
+      "nombre": "283",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3760209405572,
+          -24.5883951586104
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-284",
+      "manzana": "G",
+      "numero": 284,
+      "nombre": "284",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3759855765142,
+          -24.5884794180791
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-285",
+      "manzana": "G",
+      "numero": 285,
+      "nombre": "285",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3759502124282,
+          -24.5885636775422
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-286",
+      "manzana": "G",
+      "numero": 286,
+      "nombre": "286",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3759148482991,
+          -24.5886479369997
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "G-287",
+      "manzana": "G",
+      "numero": 287,
+      "nombre": "287",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.375879484127,
+          -24.5887321964517
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "G-288",
+      "manzana": "G",
+      "numero": 288,
+      "nombre": "288",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3758441199118,
+          -24.588816455898
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-289",
+      "manzana": "I",
+      "numero": 289,
+      "nombre": "289",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3756011248298,
+          -24.5885231231923
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-290",
+      "manzana": "I",
+      "numero": 290,
+      "nombre": "290",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3756169825697,
+          -24.5883500718198
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-291",
+      "manzana": "I",
+      "numero": 291,
+      "nombre": "291",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3756523468391,
+          -24.5882658124205
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-292",
+      "manzana": "I",
+      "numero": 292,
+      "nombre": "292",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3756877110654,
+          -24.58818155301559
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-293",
+      "manzana": "I",
+      "numero": 293,
+      "nombre": "293",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3757230752486,
+          -24.5880972936051
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-294",
+      "manzana": "I",
+      "numero": 294,
+      "nombre": "294",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3757584393888,
+          -24.5880130341891
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-295",
+      "manzana": "I",
+      "numero": 295,
+      "nombre": "295",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3757938034859,
+          -24.5879287747674
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-296",
+      "manzana": "I",
+      "numero": 296,
+      "nombre": "296",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3758291675401,
+          -24.5878445153402
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-297",
+      "manzana": "I",
+      "numero": 297,
+      "nombre": "297",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3758645315511,
+          -24.5877602559073
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-298",
+      "manzana": "I",
+      "numero": 298,
+      "nombre": "298",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3758998955192,
+          -24.5876759964689
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-299",
+      "manzana": "I",
+      "numero": 299,
+      "nombre": "299",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3759352594441,
+          -24.5875917370249
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-300",
+      "manzana": "I",
+      "numero": 300,
+      "nombre": "300",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3759714374024,
+          -24.587507464724
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-301",
+      "manzana": "I",
+      "numero": 301,
+      "nombre": "301",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3760068012407,
+          -24.5874232052686
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-302",
+      "manzana": "I",
+      "numero": 302,
+      "nombre": "302",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3760421650361,
+          -24.5873389458077
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-303",
+      "manzana": "I",
+      "numero": 303,
+      "nombre": "303",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3760775287883,
+          -24.5872546863412
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-304",
+      "manzana": "I",
+      "numero": 304,
+      "nombre": "304",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3761871561469,
+          -24.5869934819594
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-305",
+      "manzana": "I",
+      "numero": 305,
+      "nombre": "305",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3762225197227,
+          -24.58690922247
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-306",
+      "manzana": "I",
+      "numero": 306,
+      "nombre": "306",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3762578832555,
+          -24.586824962975
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-307",
+      "manzana": "I",
+      "numero": 307,
+      "nombre": "307",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3762932467452,
+          -24.5867407034743
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-308",
+      "manzana": "I",
+      "numero": 308,
+      "nombre": "308",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3763286101919,
+          -24.5866564439681
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-309",
+      "manzana": "I",
+      "numero": 309,
+      "nombre": "309",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3763639735956,
+          -24.5865721844563
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-310",
+      "manzana": "I",
+      "numero": 310,
+      "nombre": "310",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3763993369562,
+          -24.5864879249389
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-311",
+      "manzana": "I",
+      "numero": 311,
+      "nombre": "311",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3764347002738,
+          -24.586403665416
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-312",
+      "manzana": "I",
+      "numero": 312,
+      "nombre": "312",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3764700635484,
+          -24.5863194058874
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-313",
+      "manzana": "I",
+      "numero": 313,
+      "nombre": "313",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3765054267799,
+          -24.5862351463533
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-314",
+      "manzana": "I",
+      "numero": 314,
+      "nombre": "314",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3765407899684,
+          -24.5861508868135
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": 14400,
+        "status": "disponible"
+      }
+    },
+    {
+      "id": "I-315",
+      "manzana": "I",
+      "numero": 315,
+      "nombre": "315",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3765761531139,
+          -24.5860666272682
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-316",
+      "manzana": "I",
+      "numero": 316,
+      "nombre": "316",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3766115162163,
+          -24.5859823677173
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-317",
+      "manzana": "I",
+      "numero": 317,
+      "nombre": "317",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3766468792757,
+          -24.5858981081608
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-318",
+      "manzana": "I",
+      "numero": 318,
+      "nombre": "318",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.376682242292,
+          -24.5858138485987
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-319",
+      "manzana": "I",
+      "numero": 319,
+      "nombre": "319",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3767176052654,
+          -24.585729589031
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-320",
+      "manzana": "I",
+      "numero": 320,
+      "nombre": "320",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3767529681956,
+          -24.5856453294577
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-321",
+      "manzana": "I",
+      "numero": 321,
+      "nombre": "321",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3767883310829,
+          -24.5855610698789
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-322",
+      "manzana": "I",
+      "numero": 322,
+      "nombre": "322",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3765118916943,
+          -24.5854640612772
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-323",
+      "manzana": "I",
+      "numero": 323,
+      "nombre": "323",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3764765286374,
+          -24.585548320804
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-324",
+      "manzana": "I",
+      "numero": 324,
+      "nombre": "324",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3764411655373,
+          -24.5856325803252
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-325",
+      "manzana": "I",
+      "numero": 325,
+      "nombre": "325",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3764058023943,
+          -24.5857168398408
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-326",
+      "manzana": "I",
+      "numero": 326,
+      "nombre": "326",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3763704392082,
+          -24.5858010993509
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-327",
+      "manzana": "I",
+      "numero": 327,
+      "nombre": "327",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3763350759791,
+          -24.5858853588553
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-328",
+      "manzana": "I",
+      "numero": 328,
+      "nombre": "328",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3762997127069,
+          -24.5859696183542
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-329",
+      "manzana": "I",
+      "numero": 329,
+      "nombre": "329",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3762643493917,
+          -24.5860538778475
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-330",
+      "manzana": "I",
+      "numero": 330,
+      "nombre": "330",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3762289860335,
+          -24.5861381373351
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-331",
+      "manzana": "I",
+      "numero": 331,
+      "nombre": "331",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3761936226322,
+          -24.5862223968172
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-332",
+      "manzana": "I",
+      "numero": 332,
+      "nombre": "332",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3761582591879,
+          -24.5863066562937
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-333",
+      "manzana": "I",
+      "numero": 333,
+      "nombre": "333",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3761228957006,
+          -24.5863909157647
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-334",
+      "manzana": "I",
+      "numero": 334,
+      "nombre": "334",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3760875321702,
+          -24.58647517523
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-335",
+      "manzana": "I",
+      "numero": 335,
+      "nombre": "335",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3760521685968,
+          -24.5865594346897
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-336",
+      "manzana": "I",
+      "numero": 336,
+      "nombre": "336",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3760168049804,
+          -24.5866436941439
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-337",
+      "manzana": "I",
+      "numero": 337,
+      "nombre": "337",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3759814413209,
+          -24.5867279535924
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-338",
+      "manzana": "I",
+      "numero": 338,
+      "nombre": "338",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3759460776184,
+          -24.5868122130354
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-339",
+      "manzana": "I",
+      "numero": 339,
+      "nombre": "339",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3759107138729,
+          -24.5868964724728
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-340",
+      "manzana": "I",
+      "numero": 340,
+      "nombre": "340",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3758010859881,
+          -24.5871576766931
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-341",
+      "manzana": "I",
+      "numero": 341,
+      "nombre": "341",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3757657220661,
+          -24.5872419361076
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-342",
+      "manzana": "I",
+      "numero": 342,
+      "nombre": "342",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3757303581011,
+          -24.5873261955165
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-343",
+      "manzana": "I",
+      "numero": 343,
+      "nombre": "343",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.375694994093,
+          -24.5874104549197
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-344",
+      "manzana": "I",
+      "numero": 344,
+      "nombre": "344",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3756596300418,
+          -24.5874947143174
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-345",
+      "manzana": "I",
+      "numero": 345,
+      "nombre": "345",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3756242659477,
+          -24.5875789737095
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-346",
+      "manzana": "I",
+      "numero": 346,
+      "nombre": "346",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3755889018105,
+          -24.58766323309599
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-347",
+      "manzana": "I",
+      "numero": 347,
+      "nombre": "347",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3755535376302,
+          -24.5877474924769
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-348",
+      "manzana": "I",
+      "numero": 348,
+      "nombre": "348",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3755181734069,
+          -24.5878317518523
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-349",
+      "manzana": "I",
+      "numero": 349,
+      "nombre": "349",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3754828091406,
+          -24.587916011222
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-350",
+      "manzana": "I",
+      "numero": 350,
+      "nombre": "350",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3754485336886,
+          -24.5880002534005
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "I-351",
+      "manzana": "I",
+      "numero": 351,
+      "nombre": "351",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3754347930639,
+          -24.5881703042276
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "K-352",
+      "manzana": "K",
+      "numero": 352,
+      "nombre": "352",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3752112294137,
+          -24.5876404123334
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "K-353",
+      "manzana": "K",
+      "numero": 353,
+      "nombre": "353",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.37523724549,
+          -24.5874431589279
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "K-354",
+      "manzana": "K",
+      "numero": 354,
+      "nombre": "354",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3752726098218,
+          -24.5873588996087
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "K-355",
+      "manzana": "K",
+      "numero": 355,
+      "nombre": "355",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3753079741105,
+          -24.5872746402839
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "K-356",
+      "manzana": "K",
+      "numero": 356,
+      "nombre": "356",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3753433383562,
+          -24.5871903809535
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "K-357",
+      "manzana": "K",
+      "numero": 357,
+      "nombre": "357",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3753787025589,
+          -24.5871061216175
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "K-358",
+      "manzana": "K",
+      "numero": 358,
+      "nombre": "358",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3754140667186,
+          -24.587021862276
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-359",
+      "manzana": "L",
+      "numero": 359,
+      "nombre": "359",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3755467321361,
+          -24.5867687424893
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-360",
+      "manzana": "L",
+      "numero": 360,
+      "nombre": "360",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3755820961052,
+          -24.5866844831205
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-361",
+      "manzana": "L",
+      "numero": 361,
+      "nombre": "361",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.37538196356,
+          -24.5865822419586
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-362",
+      "manzana": "L",
+      "numero": 362,
+      "nombre": "362",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3756174600312,
+          -24.5866002237461
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-363",
+      "manzana": "L",
+      "numero": 363,
+      "nombre": "363",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3756528239141,
+          -24.5865159643661
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-364",
+      "manzana": "L",
+      "numero": 364,
+      "nombre": "364",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.375653190212,
+          -24.5864235047957
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-365",
+      "manzana": "L",
+      "numero": 365,
+      "nombre": "365",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3756997376765,
+          -24.5863419289893
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-366",
+      "manzana": "L",
+      "numero": 366,
+      "nombre": "366",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.37574289122,
+          -24.58625989956539
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-367",
+      "manzana": "L",
+      "numero": 367,
+      "nombre": "367",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3757846712394,
+          -24.5861778918124
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-368",
+      "manzana": "L",
+      "numero": 368,
+      "nombre": "368",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3758282238311,
+          -24.5860919063028
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-369",
+      "manzana": "L",
+      "numero": 369,
+      "nombre": "369",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3758759543559,
+          -24.5859977200068
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-370",
+      "manzana": "L",
+      "numero": 370,
+      "nombre": "370",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.375926090179,
+          -24.5858993106703
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-371",
+      "manzana": "L",
+      "numero": 371,
+      "nombre": "371",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3759797711585,
+          -24.5857929458232
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-372",
+      "manzana": "L",
+      "numero": 372,
+      "nombre": "372",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3760400353795,
+          -24.58567415715081
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-373",
+      "manzana": "L",
+      "numero": 373,
+      "nombre": "373",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.3761097952783,
+          -24.58553523442781
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    },
+    {
+      "id": "L-374",
+      "manzana": "L",
+      "numero": 374,
+      "nombre": "374",
+      "geometria": {
+        "tipo": "Point",
+        "coordenadas": [
+          -65.376185631217,
+          -24.5853873750537
+        ]
+      },
+      "propiedades": {
+        "area_m2": 300,
+        "perimetro": null,
+        "precio_usd": null,
+        "status": "vendido"
+      }
+    }
+  ]
+}
